@@ -14,7 +14,7 @@ This project was done to realize how java servlets work. The entity `User` is in
 
 ## Deployment
 
-#### * Clone git repository `https://github.com/Shotim/User-servlet-app`
+#### * Clone git repository `https://github.com/Shotim/User-Servlet-App-2.5`
 
 
 #### * Build project:
