@@ -10,7 +10,7 @@ This project was done to realize how java servlets work. The entity `User` is in
 * Docker
 
 ## Used Technologies
-* Servlet API 4.0.1
+* Servlet API 2.5
 
 ## Deployment
 
